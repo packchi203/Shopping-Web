@@ -41,6 +41,9 @@
 *::after {
   box-sizing: border-box;
 }
+body{
+  padding: none !important;
+}
 
 html {
   font-family: sans-serif;
